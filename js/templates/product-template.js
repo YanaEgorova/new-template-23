@@ -17,7 +17,7 @@ export const productTemplate = (product, amount) => {
                <span class="prod__price">$
                    <span class="js_price">${product.price}</span>
                </span>
-               ${product.discount ? `<span class="prod__discount js_prod__discount">$${product.discount}</span>` : ''}
+             
                
            </div>
        </div>
