@@ -27,7 +27,7 @@ export const products = [
         id: 'product-2',
         name: 'Cooling Elevated Pet Bed',
         price: 29.99,
-        discount: 24.65,
+    
         image: './img/img2.png',
         description: [
             {
@@ -52,7 +52,7 @@ export const products = [
         id: 'product-3',
         name: '2-Way Manifold Gauge Set',
         price: 64.90,
-        discount: 69.99,
+    
         image: './img/img3.png',
         description: [
             {
@@ -77,7 +77,7 @@ export const products = [
         id: 'product-4',
         name: 'Cordless Tire Inflator',
         price: 98.90,
-        discount: 55.97,
+     
         image: './img/img4.png',
         description: [
             {
@@ -108,7 +108,7 @@ export const products = [
         id: 'product-5',
         name: 'Portable Folding Camp Kitchen',
         price: 119.98,
-        discount: 79.93,
+     
         image: './img/img5.png',
         description: [
             {
@@ -138,7 +138,7 @@ export const products = [
         id: 'product-6',
         name: 'Door Wall GearBox',
         price: 148.00,
-        discount: 95.50,
+     
         image: './img/img6.png',
         description: [
             {
